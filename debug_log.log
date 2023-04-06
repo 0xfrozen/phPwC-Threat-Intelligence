@@ -1,0 +1,224 @@
+2023-03-11 12:42:47,423 phantom.base_connector.BaseConnector INFO BaseConnector.save_progress - Progress: In action handler for: lookup_ip; More: None
+2023-03-11 12:43:11,650 phantom.base_connector.BaseConnector INFO BaseConnector.save_progress - Progress: In action handler for: lookup_ip; More: None
+2023-03-11 12:44:13,235 phantom.base_connector.BaseConnector INFO BaseConnector.save_progress - Progress: In action handler for: lookup_ip; More: None
+2023-03-11 12:44:13,974 phantom.base_connector.BaseConnector INFO ActionResult.add_data() - Data (next line):
+[   {   '@timestamp': '2023-02-27T19:15:13.283Z',
+        'campaign_name': 'ASEC - Dalbit (m00nlight) - Chinese Hacker Group’s '
+                         'APT Attack Campaign',
+        'confidence': 'HIGH',
+        'ip': '45.93.31.122',
+        'source': 'maltego',
+        'threat_actor': 'unclassified',
+        'tlp': 'amber'}]
+2023-03-11 12:44:13,974 phantom.base_connector.BaseConnector INFO ActionResult.set_status() - Status: True; Message: None; Exception: None
+2023-03-11 12:46:08,805 phantom.base_connector.BaseConnector INFO BaseConnector.save_progress - Progress: In action handler for: lookup_ip; More: None
+2023-03-11 12:46:09,464 phantom.base_connector.BaseConnector INFO ActionResult.add_data() - Data (next line):
+[   {   '@timestamp': '2023-02-27T19:15:13.283Z',
+        'campaign_name': 'ASEC - Dalbit (m00nlight) - Chinese Hacker Group’s '
+                         'APT Attack Campaign',
+        'confidence': 'HIGH',
+        'ip': '45.93.31.122',
+        'source': 'maltego',
+        'threat_actor': 'unclassified',
+        'tlp': 'amber'}]
+2023-03-11 12:46:09,464 phantom.base_connector.BaseConnector INFO ActionResult.set_status() - Status: True; Message: None; Exception: None
+2023-03-11 12:46:21,951 phantom.base_connector.BaseConnector INFO BaseConnector.save_progress - Progress: In action handler for: lookup_ip; More: None
+2023-03-11 12:51:53,784 phantom.base_connector.BaseConnector INFO BaseConnector.save_progress - Progress: In action handler for: lookup_ip; More: None
+2023-03-11 12:52:05,373 phantom.base_connector.BaseConnector INFO BaseConnector.save_progress - Progress: In action handler for: lookup_ip; More: None
+2023-03-11 12:52:05,990 phantom.base_connector.BaseConnector INFO ActionResult.add_data() - Data (next line):
+[   {   '@timestamp': '2023-02-27T19:15:13.283Z',
+        'campaign_name': 'ASEC - Dalbit (m00nlight) - Chinese Hacker Group’s '
+                         'APT Attack Campaign',
+        'confidence': 'HIGH',
+        'ip': '45.93.31.122',
+        'source': 'maltego',
+        'threat_actor': 'unclassified',
+        'tlp': 'amber'}]
+2023-03-11 12:52:05,990 phantom.base_connector.BaseConnector INFO ActionResult.set_status() - Status: True; Message: None; Exception: None
+2023-03-11 13:14:52,062 phantom.base_connector.BaseConnector INFO BaseConnector.save_progress - Progress: In action handler for: lookup_ip; More: None
+2023-03-11 13:14:52,723 phantom.base_connector.BaseConnector INFO ActionResult.add_data() - Data (next line):
+[   {   '@timestamp': '2023-02-27T19:15:13.283Z',
+        'campaign_name': 'ASEC - Dalbit (m00nlight) - Chinese Hacker Group’s '
+                         'APT Attack Campaign',
+        'confidence': 'HIGH',
+        'ip': '45.93.31.122',
+        'source': 'maltego',
+        'threat_actor': 'unclassified',
+        'tlp': 'amber'}]
+2023-03-11 13:14:52,723 phantom.base_connector.BaseConnector INFO ActionResult.set_status() - Status: True; Message: None; Exception: None
+2023-03-11 13:15:46,260 phantom.base_connector.BaseConnector INFO BaseConnector.save_progress - Progress: In action handler for: lookup_ip; More: None
+2023-03-11 13:15:46,923 phantom.base_connector.BaseConnector INFO ActionResult.add_data() - Data (next line):
+[   {   '@timestamp': '2023-02-27T19:15:13.283Z',
+        'campaign_name': 'ASEC - Dalbit (m00nlight) - Chinese Hacker Group’s '
+                         'APT Attack Campaign',
+        'confidence': 'HIGH',
+        'ip': '45.93.31.122',
+        'source': 'maltego',
+        'threat_actor': 'unclassified',
+        'tlp': 'amber'}]
+2023-03-11 13:15:46,923 phantom.base_connector.BaseConnector INFO ActionResult.set_status() - Status: True; Message: None; Exception: None
+2023-03-11 13:16:33,605 phantom.base_connector.BaseConnector INFO BaseConnector.save_progress - Progress: In action handler for: lookup_ip; More: None
+2023-03-11 13:16:34,254 phantom.base_connector.BaseConnector INFO ActionResult.add_data() - Data (next line):
+[   {   '@timestamp': '2023-02-27T19:15:13.283Z',
+        'campaign_name': 'ASEC - Dalbit (m00nlight) - Chinese Hacker Group’s '
+                         'APT Attack Campaign',
+        'confidence': 'HIGH',
+        'ip': '45.93.31.122',
+        'source': 'maltego',
+        'threat_actor': 'unclassified',
+        'tlp': 'amber'}]
+2023-03-11 13:16:34,255 phantom.base_connector.BaseConnector INFO ActionResult.set_status() - Status: True; Message: None; Exception: None
+2023-03-11 22:24:37,010 phantom.base_connector.BaseConnector INFO BaseConnector.save_progress - Progress: In action handler for: lookup_ip; More: None
+2023-03-11 22:24:38,115 phantom.base_connector.BaseConnector INFO ActionResult.add_data() - Data (next line):
+[   {   '@timestamp': '2023-02-27T19:15:13.283Z',
+        'campaign_name': 'ASEC - Dalbit (m00nlight) - Chinese Hacker Group’s '
+                         'APT Attack Campaign',
+        'confidence': 'HIGH',
+        'ip': '45.93.31.122',
+        'source': 'maltego',
+        'threat_actor': 'unclassified',
+        'tlp': 'amber'}]
+2023-03-11 22:24:38,117 phantom.base_connector.BaseConnector INFO ActionResult.set_status() - Status: True; Message: None; Exception: None
+2023-03-11 22:25:28,856 phantom.base_connector.BaseConnector INFO BaseConnector.save_progress - Progress: In action handler for: lookup_ip; More: None
+2023-03-11 22:25:29,884 phantom.base_connector.BaseConnector INFO ActionResult.add_data() - Data (next line):
+[   {   '@timestamp': '2023-02-27T19:15:13.283Z',
+        'campaign_name': 'ASEC - Dalbit (m00nlight) - Chinese Hacker Group’s '
+                         'APT Attack Campaign',
+        'confidence': 'HIGH',
+        'ip': '45.93.31.122',
+        'source': 'maltego',
+        'threat_actor': 'unclassified',
+        'tlp': 'amber'}]
+2023-03-11 22:25:29,884 phantom.base_connector.BaseConnector INFO ActionResult.set_status() - Status: True; Message: None; Exception: None
+2023-03-13 13:52:06,291 phantom.base_connector.BaseConnector INFO BaseConnector.save_progress - Progress: In action handler for: lookup_domain; More: None
+2023-03-13 13:52:06,892 phantom.base_connector.BaseConnector INFO ActionResult.add_data() - Data (next line):
+[   {   '@timestamp': '2023-03-07T17:31:47.942Z',
+        'campaign_name': [   '2022-08-25 - GroupIB - 0ktapus Okta Twilio '
+                             'campaign',
+                             '2022-2023 Additional 0ktapus activity'],
+        'confidence': 'HIGH',
+        'domain': 'loginxarth.tv',
+        'report_id': 'CTO-TIB-20230307-01A',
+        'source': ['maltego', 'submitapp'],
+        'threat_actor': ['unclassified', 'White_Dev_146'],
+        'threat_status': 'malicious',
+        'tlp': ['amber', 'AMBER']}]
+2023-03-13 13:52:06,892 phantom.base_connector.BaseConnector INFO ActionResult.set_status() - Status: True; Message: None; Exception: None
+2023-03-13 13:52:52,248 phantom.base_connector.BaseConnector INFO BaseConnector.save_progress - Progress: In action handler for: lookup_hash; More: None
+2023-03-13 13:52:52,879 phantom.base_connector.BaseConnector INFO ActionResult.add_data() - Data (next line):
+[   {   'campaign_name': '11-06-2020 Protux Backdoor - Red Perseus - Red '
+                         'Cyclops',
+        'malware_family': None,
+        'malware_status': None,
+        'md5': '875A53A225109FDF3C56680C530A1BCF',
+        'report': None,
+        'rule_name': 'APT_Dingu',
+        'ruleset_name': None,
+        'sha1': 'fa897647c2f8455c030aed96fee2b2a4ce7e8336',
+        'sha256': '4c3532f03c8bb09af06b7253264d041b35b142d124103c3821e366e8b9c2c69b',
+        'source': ['maltego', 'yara'],
+        'threat_actor': ['Red_Cyclops', 'Red_Perseus'],
+        'threat_status': None,
+        'tlp': 'amber',
+        'yara_detect_date': '2023-01-20T12:59:58Z'}]
+2023-03-13 13:52:52,879 phantom.base_connector.BaseConnector INFO ActionResult.set_status() - Status: True; Message: None; Exception: None
+2023-03-13 14:10:25,832 phantom.base_connector.BaseConnector INFO BaseConnector.save_progress - Progress: Looking up the IP to check connectivity; More: None
+2023-03-13 14:10:36,084 phantom.base_connector.BaseConnector INFO BaseConnector.save_progress - Progress: Looking up the IP to check connectivity; More: None
+2023-03-13 14:10:36,742 phantom.base_connector.BaseConnector INFO BaseConnector.set_status_save_progress - Status: True, Message: {'data': {'campaign_name': 'White Veles 2023 H1', 'threat_actor': 'White_Veles', '@timestamp': '2023-03-09T19:15:18.587Z', 'ip': '159.89.22.147', 'tlp': 'amber', 'source': 'maltego', 'confidence': 'HIGH'}}
+2023-03-13 14:11:32,399 phantom.base_connector.BaseConnector INFO BaseConnector.save_progress - Progress: Looking up the IP to check connectivity; More: None
+2023-03-13 14:11:32,967 phantom.base_connector.BaseConnector INFO BaseConnector.set_status_save_progress - Status: True, Message: {'data': {'campaign_name': 'White Veles 2023 H1', 'threat_actor': 'White_Veles', '@timestamp': '2023-03-09T19:15:18.587Z', 'ip': '159.89.22.147', 'tlp': 'amber', 'source': 'maltego', 'confidence': 'HIGH'}}
+2023-03-13 14:11:55,977 phantom.base_connector.BaseConnector INFO BaseConnector.save_progress - Progress: Looking up the IP to check connectivity; More: None
+2023-03-13 14:11:56,498 phantom.base_connector.BaseConnector INFO BaseConnector.set_status_save_progress - Status: True, Message: {'data': {'campaign_name': 'White Veles 2023 H1', 'threat_actor': 'White_Veles', '@timestamp': '2023-03-09T19:15:18.587Z', 'ip': '159.89.22.147', 'tlp': 'amber', 'source': 'maltego', 'confidence': 'HIGH'}}
+2023-03-13 14:39:53,816 phantom.base_connector.BaseConnector INFO BaseConnector.save_progress - Progress: Looking up the IP to check connectivity; More: None
+2023-03-13 14:40:42,884 phantom.base_connector.BaseConnector INFO BaseConnector.save_progress - Progress: Looking up the IP to check connectivity; More: None
+2023-03-13 14:42:16,476 phantom.base_connector.BaseConnector INFO BaseConnector.save_progress - Progress: Looking up the IP to check connectivity; More: None
+2023-03-13 14:43:40,229 phantom.base_connector.BaseConnector INFO BaseConnector.save_progress - Progress: Looking up the IP to check connectivity; More: None
+2023-03-13 14:44:10,237 phantom.base_connector.BaseConnector INFO BaseConnector.save_progress - Progress: Looking up the IP to check connectivity; More: None
+2023-03-13 14:45:21,298 phantom.base_connector.BaseConnector INFO BaseConnector.save_progress - Progress: Looking up the IP to check connectivity; More: None
+2023-03-13 14:45:46,741 phantom.base_connector.BaseConnector INFO BaseConnector.save_progress - Progress: Looking up the IP to check connectivity; More: None
+2023-03-13 14:47:15,146 phantom.base_connector.BaseConnector INFO BaseConnector.save_progress - Progress: Looking up the IP to check connectivity; More: None
+2023-03-13 14:47:38,108 phantom.base_connector.BaseConnector INFO BaseConnector.save_progress - Progress: Looking up the IP to check connectivity; More: None
+2023-03-13 14:48:35,090 phantom.base_connector.BaseConnector INFO BaseConnector.save_progress - Progress: Looking up the IP to check connectivity; More: None
+2023-03-13 14:57:01,875 phantom.base_connector.BaseConnector INFO BaseConnector.save_progress - Progress: Looking up the IP to check connectivity; More: None
+2023-03-13 14:59:05,545 phantom.base_connector.BaseConnector INFO BaseConnector.save_progress - Progress: Looking up the IP to check connectivity; More: None
+2023-03-13 15:03:31,567 phantom.base_connector.BaseConnector INFO BaseConnector.save_progress - Progress: Looking up the IP to check connectivity; More: None
+2023-03-13 15:05:07,034 phantom.base_connector.BaseConnector INFO BaseConnector.save_progress - Progress: Looking up the IP to check connectivity; More: None
+2023-03-13 15:09:18,210 phantom.base_connector.BaseConnector INFO BaseConnector.save_progress - Progress: Looking up the IP to check connectivity; More: None
+2023-03-13 15:10:12,924 phantom.base_connector.BaseConnector INFO BaseConnector.save_progress - Progress: Looking up the IP to check connectivity; More: None
+2023-03-13 15:10:22,280 phantom.base_connector.BaseConnector INFO BaseConnector.save_progress - Progress: Looking up the IP to check connectivity; More: None
+2023-03-13 15:15:00,198 phantom.base_connector.BaseConnector INFO BaseConnector.save_progress - Progress: Looking up the IP to check connectivity; More: None
+2023-03-13 15:25:10,214 phantom.base_connector.BaseConnector INFO BaseConnector.save_progress - Progress: Looking up the IP to check connectivity; More: None
+2023-03-14 06:50:24,946 phantom.base_connector.BaseConnector INFO BaseConnector.save_progress - Progress: Looking up the IP to check connectivity; More: None
+2023-03-18 07:19:34,008 phantom.base_connector.BaseConnector INFO BaseConnector.save_progress - Progress: In action handler for: lookup_hash; More: None
+2023-03-18 07:19:34,552 phantom.base_connector.BaseConnector INFO ActionResult.set_status() - Status: False; Message: Response code: 401, Response from the server: "error": "message": null, "status": 401, "reason": "Unauthorized"; Exception: None
+2023-03-18 07:21:01,326 phantom.base_connector.BaseConnector INFO BaseConnector.save_progress - Progress: In action handler for: lookup_hash; More: None
+2023-03-18 07:21:01,844 phantom.base_connector.BaseConnector INFO ActionResult.set_status() - Status: False; Message: Response code: 401, Response from the server: "error": "message": null, "status": 401, "reason": "Unauthorized"; Exception: None
+2023-03-18 07:21:17,480 phantom.base_connector.BaseConnector INFO BaseConnector.save_progress - Progress: In action handler for: lookup_hash; More: None
+2023-03-18 07:21:17,981 phantom.base_connector.BaseConnector INFO ActionResult.set_status() - Status: False; Message: PwC TI API Unavailable; Exception: 'str' object is not callable
+2023-03-18 07:23:15,109 phantom.base_connector.BaseConnector INFO BaseConnector.save_progress - Progress: In action handler for: lookup_hash; More: None
+2023-03-18 07:23:24,784 phantom.base_connector.BaseConnector INFO BaseConnector.save_progress - Progress: In action handler for: lookup_ip; More: None
+2023-03-18 07:23:25,283 phantom.base_connector.BaseConnector INFO ActionResult.set_status() - Status: False; Message: Response code: 401, Response from the server: "error": "message": null, "status": 401, "reason": "Unauthorized"; Exception: None
+2023-03-18 07:24:21,615 phantom.base_connector.BaseConnector INFO BaseConnector.save_progress - Progress: In action handler for: lookup_ip; More: None
+2023-03-18 07:24:22,069 phantom.base_connector.BaseConnector INFO ActionResult.set_status() - Status: False; Message: Response code: 401, Response from the server: "error": "message": null, "status": 401, "reason": "Unauthorized"; Exception: None
+2023-03-18 07:25:40,016 phantom.base_connector.BaseConnector INFO BaseConnector.save_progress - Progress: In action handler for: lookup_ip; More: None
+2023-03-18 07:25:40,671 phantom.base_connector.BaseConnector INFO ActionResult.add_data() - Data (next line):
+[   {   '@timestamp': '2023-03-13T14:22:14.083Z',
+        'confidence': 'HIGH',
+        'ip': '157.97.28.166',
+        'report_id': 'CTO-TIB-20230313-01A',
+        'source': 'submitapp',
+        'threat_actor': 'Red_Dev_33',
+        'threat_status': 'malicious',
+        'tlp': 'AMBER'}]
+2023-03-18 07:25:40,672 phantom.base_connector.BaseConnector INFO ActionResult.set_status() - Status: True; Message: None; Exception: None
+2023-03-18 07:26:25,165 phantom.base_connector.BaseConnector INFO BaseConnector.save_progress - Progress: In action handler for: lookup_hash; More: None
+2023-03-18 07:26:26,984 phantom.base_connector.BaseConnector INFO ActionResult.add_data() - Data (next line):
+[   {   'campaign_name': None,
+        'malware_family': None,
+        'malware_status': None,
+        'md5': 'A300F4AA95E0D9055EC5E59CB651BA9A',
+        'report': None,
+        'rule_name': 'Andariel_PDB',
+        'ruleset_name': None,
+        'sha1': 'dfe5ae7709f7e5b71047cf1fcea2b5f19a798b6d',
+        'sha256': '4500a0db79c15a2355346adf602e7d8a0125a29ac93a1fc63009076bdbcb298d',
+        'source': 'yara',
+        'threat_actor': 'Black_Artemis',
+        'threat_status': None,
+        'tlp': 'amber',
+        'yara_detect_date': '2023-03-12T02:10:04Z'}]
+2023-03-18 07:26:26,985 phantom.base_connector.BaseConnector INFO ActionResult.set_status() - Status: True; Message: None; Exception: None
+2023-03-22 07:52:55,689 phantom.base_connector.BaseConnector INFO BaseConnector.save_progress - Progress: In action handler for: lookup_hash; More: None
+2023-03-22 07:52:56,335 phantom.base_connector.BaseConnector INFO ActionResult.add_data() - Data (next line):
+[   {   'campaign_name': None,
+        'malware_family': None,
+        'malware_status': None,
+        'md5': 'A300F4AA95E0D9055EC5E59CB651BA9A',
+        'report': None,
+        'rule_name': 'Andariel_PDB',
+        'ruleset_name': None,
+        'sha1': 'dfe5ae7709f7e5b71047cf1fcea2b5f19a798b6d',
+        'sha256': '4500a0db79c15a2355346adf602e7d8a0125a29ac93a1fc63009076bdbcb298d',
+        'source': 'yara',
+        'threat_actor': 'Black_Artemis',
+        'threat_status': None,
+        'tlp': 'amber',
+        'yara_detect_date': '2023-03-12T02:10:04Z'}]
+2023-03-22 07:52:56,335 phantom.base_connector.BaseConnector INFO ActionResult.set_status() - Status: True; Message: None; Exception: None
+2023-03-31 19:32:28,025 phantom.base_connector.BaseConnector INFO BaseConnector.save_progress - Progress: In action handler for: lookup_hash; More: None
+2023-03-31 19:32:28,791 phantom.base_connector.BaseConnector INFO ActionResult.add_data() - Data (next line):
+[   {   'campaign_name': None,
+        'malware_family': None,
+        'malware_status': None,
+        'md5': 'A300F4AA95E0D9055EC5E59CB651BA9A',
+        'report': None,
+        'rule_name': 'Andariel_PDB',
+        'ruleset_name': None,
+        'sha1': 'dfe5ae7709f7e5b71047cf1fcea2b5f19a798b6d',
+        'sha256': '4500a0db79c15a2355346adf602e7d8a0125a29ac93a1fc63009076bdbcb298d',
+        'source': 'yara',
+        'threat_actor': 'Black_Artemis',
+        'threat_status': None,
+        'tlp': 'amber',
+        'yara_detect_date': '2023-03-12T02:10:04Z'}]
+2023-03-31 19:32:28,792 phantom.base_connector.BaseConnector INFO ActionResult.set_status() - Status: True; Message: None; Exception: None
