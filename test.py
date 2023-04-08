@@ -17,3 +17,5 @@ pwcti.action_identifier = 'lookup_hash'
 pwcti.handle_action(
    {'hash': 'A300F4AA95E0D9055EC5E59CB651BA9A'}
 )
+
+#test for github through browser
